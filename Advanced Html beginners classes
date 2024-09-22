@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name ="viewreport"content="width=device-width,initial-scale=1">
+    <title>My first website</title>
+</head>
+<body>
+    <marquee><b><color="#fff"> first trial</b></marquee>
+THIS IS MY FIRST WEBSITE AND<b>thats why</b> AM HAPPY.
+<h1>my first web page</h1>
+<h2>an html program</h2>
+<h3>an html program</h3>
+<h4>an html program</h4>
+<h5>an html program</h5>
+<h6>an html program</h6>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <b>Duis consectetur enim at ipsum feugiat,</b> vitae elementum dui mattis. Donec interdum nisi vel lacinia viverra. <strong>Aliquam ac sagittis nibh. Sed at pretium erat</strong>. Fusce imperdiet risus vitae ex consequat, at pharetra nulla condimentum. Nulla varius tellus quis eleifend scelerisque. Etiam cursus sapien ut sapien varius pulvinar. Nunc lacinia ipsum in auctor molestie. Sed et massa ante.</p>
+<p>Sed in dapibus erat. <i>Fusce bibendum sagittis rhoncus. Suspendisse potenti.</i> Etiam dictum eu diam vitae mollis. Aenean a erat laoreet, pulvinar dui eu, dictum lacus. Vivamus ullamcorper at magna in ornare. Nulla commodo eget sem a finibus. Cras ipsum tellus, laoreet sed sapien non, ultricies bibendum metus. In lacus lorem, malesuada at mattis et, luctus sit amet ipsum. Nunc tincidunt blandit nisi, sit amet semper velit congue a. Suspendisse at pulvinar mi. Nam eu laoreet nunc. Pellentesque euismod enim dui, in tristique nibh porta non. Duis et turpis elementum odio auctor blandit eget eu diam. Sed molestie dictum dapibus</p>
+<br><br><br>
+<hr>
+Duis vel nulla pharetra, <u>tristique turpis at, placerat diam. Fusce id consequat nibh</u>. <em>Aliquam fermentum sagittis nibh ac volutpat. </em>Proin maximus auctor libero eget sollicitudin. Curabitur malesuada posuere orci, sed sagittis nulla semper nec. Aenean vel faucibus ex. Etiam at leo at risus tempor viverra. Aliquam euismod, metus a lobortis dignissim, orci arcu placerat lorem, vel vestibulum sem tellus at ante. Nullam eget gravida justo, id pretium neque. Fusce ullamcorper sapien at diam pharetra congue. Maecenas metus nulla, malesuada in lectus vel, scelerisque venenatis sapien. Integer ac nibh sodales urna venenatis elementum. Mauris vulputate quis massa at tristique.<a href="https://www.google.com"target="_blank"> Cras euismod ipsum ut neque vulputate dapibus.</a>
+<br><img src="search-ms:displayname=Search%20Results%20in%20Pictures&crumb=location:C%3A%5CUsers%5CUser%5CPictures\index.html picture">
+<ol>
+<li>apple
+    <ol>
+        <li>jumia</li>
+        <li>glovo</li>
+        <li>copia</li>
+    </ol>
+</li>
+<li>mango</li>
+<li>orange</li>
+</ol>
+<ul>
+<li>lemon</li>
+<li>pineapple</li>
+<li>berry</li>
+</ul>
+<table border="20" cellpadding="10"cell spacing="10" >
+    <tr>
+          <th>name</th>
+          <th>marks</th>
+          <th>reg no.</th>
+
+
+    </tr>
+    <tr>
+        <td>mark</td>
+        <td>40</td>
+        <td>ct\6923</td>
+
+
+
+    </tr>
+    <tr>
+        <td>mutisya</td>
+        <td>60</td>
+        <td>ct/3546578</td>
+
+
+    </tr>
+    <tr>
+<td>ann</td>
+<td>90</td>
+<td>pa19080</td>
+    </tr>    
+
+
+    
+
+
+
+
+
+
+
+</table>
+
+
+</body>
+
+
+
+
+
+
+
+</html>
