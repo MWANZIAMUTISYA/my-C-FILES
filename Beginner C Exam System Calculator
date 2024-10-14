@@ -1,0 +1,33 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main()
+{
+  int math,eng,kisw,bio,chem,comp,histo,sum;
+  float mean;
+  char name[5];
+    printf("Enter your name: ");
+    scanf("%s", name);
+    printf("Hello, %s!\n", name);
+  printf("1. enter math marks=");
+  scanf("%i",&math);
+  printf("2. enter eng marks=");
+  scanf("%i",&eng);
+  printf("3. enter kisw marks=");
+  scanf("%i",&kisw);
+  printf("4. enter bio marks=");
+  scanf("%i",&bio);
+  printf("5. enter chem marks=");
+  scanf("%i",&chem);
+  printf("6. enter comp marks=");
+  scanf("%i",&comp);
+  printf("7. enter histo marks=");
+  scanf("%i",&histo);
+  sum=math+eng+kisw+bio+chem+comp+histo;
+  printf("8.this is the sum=%d\n",sum);
+  mean=sum/7;
+  printf("5.this is the mean=%f",mean);
+  
+
+    return 0;
+}
