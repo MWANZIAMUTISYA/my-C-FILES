@@ -1,0 +1,13 @@
+//Online C compiler to run C program online
+#include <stdio.h>//makes c programming language distinct 
+int main()//dealing with integers ie numbers like 1/2/10/89/product/sum/divisions.
+{
+    int a;
+    // This is Master Programmer Academy ;
+    printf("1.This is Master Programmer Academy");
+    printf("\n2.How many joined the Master programmer academy bootcamp?");
+    scanf("%i",&a);//informs the Computer that the line of code is relevant and need to be executed 
+//% is annotations for modular and & is for call
+   return 0;//terminate/end/finish the program
+}
+https://www.programiz.com/online-compiler/0Vr4QhjTEGbYw
